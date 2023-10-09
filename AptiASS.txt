@@ -1,0 +1,154 @@
+1) What quantity of water should be added to the milk water mixture so that
+the milk water ratio changes from 2:3 to 4:11. The quantity of milk in the
+mixture is 40 litres?
+
+Initial ratio
+milk-water ratio = 2:3
+Let's assume the initial quantity of water = 3a 
+quantity of milk = 2a 
+Quantity of Milk:
+Given that the quantity of milk in the mixture is 40 liters.
+So, 2x (initial quantity of milk) = 40 liters
+Solve for a:
+2a = 40 ,a = 40 / 2 ,a = 20
+Initial Quantity of Water:
+Since we know the initial quantity of milk and the initial milk-water ratio:
+Initial quantity of water = 3a = 3 * 20 = 60 liters
+
+Final ratio
+We want to change the milk-water ratio to 4:11.
+So, final quantity of milk = (4 / (4+11)) * Total mixture
+Final quantity of water = (11 / (4+11)) * Total mixture
+Given that the final quantity of milk is 40 liters,
+(4 / (4+11)) * Total mixture = 40 ,  (4/15)* total mixture = 40
+solve for the total mixture:
+(4 / (4+11)) * Total mixture = 40
+Multiply both sides by (4+11):
+4 * Total mixture = 40 * 15
+Total mixture = 40 * 15 / 4
+Total mixture = 150 liters
+
+Quantity of Water to be Added:
+We have found the total quantity of the mixture needed to achieve the final ratio.
+We know the initial quantity of water is 60 liters.
+So, the quantity of water to be added = Total mixture - Initial quantity of water
+Quantity of water to be added = 150 liters - 60 liters = 90 liters
+so you need to add 90 liters of water to the milk-water mixture to change the milk-water ratio from 2:3 to 4:11
+
+
+2) Linear equation 2x+3y=0 meets the x & y-axis at the point?
+
+to find where the  equation 2x+3y=0 meets we can substitute 0 with either x or y so that we can get the point of intersection
+let us find the point of intersection with x axis and put the value of y = 0 solve for x
+2x + 3(0) = 0
+2x = 0
+x = 0
+the equation 2x+3y=0 meets x axis at (0,0)
+let us find the point of intersection with y axis and put the value of x = 0 solve for y
+2(0) + 3y = 0
+3y = 0
+y = 0
+the equation 2x+3y=0 meets y axis at (0,0)
+the equation 2x + 3y = 0 intersects both the x-axis and y-axis at (0,0) which is known as origin. 
+
+3) a & b are positive integers such that a^2-b^=19. Find a & b?
+
+it is given that a^2 - b^2 = 19 which is the difference between the squares of two numbers
+we know the formula a^2 - b^2 = (a-b)*(a+b)
+now (a-b) * (a+b) = 19 we can also write 19 as 1*19
+so now  it's (a-b) * (a+b) = 1*19
+by equating these two equation we get two equation
+a-b = 1  ----->i
+a+b = 19 ----->ii
+by adding equation i and ii we get ,
+2a = 20
+a = 10  ,by putting the a value in equation ii we got the b value as 9 (b=9)
+therefore, the two positive integers a and b are 10 and 9 respectively
+
+4) Find a^+b^3+c^3+3abc , where a+b+c=5 & , a^2+b^2+c^2=10?
+
+Given that,
+a+b+c=5 ------>i
+a^2+b^2+c^2=10 ----->ii
+
+a^3+b^3+c^3−3abc = (a+b+c)(a^2+b^2+c^2−ab−ac−bc) ---->iii
+put the equation (i) and (ii) in (iii) 
+a^3+b^3+c^3−3abc = (5)(10−ab−ac−bc)
+a+b+c=5 squaring on both sides
+(a+b+c)^2 = 25
+a^2+b^2+c^2+2ab+2bc+2ca = 25
+10+2ab+2bc+2ca = 25
+2ab+2bc+2ca = 25-10 , 2ab+2bc+2ca = 15 , 2(ab+bc+ca) = 15
+ab+bc+ca = 15/2, -(ab+bc+ca) = -15/2
+a^3+b^3+c^3−3abc = (5)(10−ab−ac−bc) put the value 
+a^3+b^3+c^3−3abc = (5)(10-15/2)
+a^3+b^3+c^3−3abc = (5)(20-15/2) , a^3+b^3+c^3−3abc = (5)(5/2)
+a^3+b^3+c^3−3abc = 25/2
+
+5) Sum of two, two-digit numbers is a perfect square. The digits of the first
+two-digit number are two consecutive positive integers; also, when the digits
+of the first number are reversed, the second number is formed. Find these
+numbers & the square root of their sum.
+
+Let the two-digit numbers be xy and yx, where x and y are digits.
+the digits of the first two-digit number are two consecutive positive integers. 
+this means x and y differ by 1. So, we have two cases:
+x is the smaller digit and y is the larger digit.
+y is the smaller digit, and x is the larger digit.
+we have 2 cases
+Case 1: x is the smaller digit
+x can be 1, 2, 3, 4, 5, 6, 7, 8, or 9 
+y is then x + 1
+create the numbers xy and yx based on this:
+xy = 10x + y
+yx = 10y + x
+we know that the sum of these two numbers is a perfect square:
+(10x + y) + (10y + x) = 11x + 11y = 11(x + y)
+To get a perfect square, x + y must be a multiple of 11,
+as 11 times a perfect square will give you a perfect square.
+x + y = 11 (because 11 times 1 is 11)
+x = 5, y = 6
+So in this case, the two-digit numbers are 56 and 65.
+Case 2: y is the smaller digit.
+y can be 1, 2, 3, 4, 5, 6, 7, 8, or 9 
+x is then y + 1
+create the numbers AB and BA based on this:
+xy = 10x + y
+yx = 10y + x
+we know that the sum of these two numbers is a perfect square:
+(10x + y) + (10y + x) = 11x + 11y = 11(y + 1) + y = 11y + 11 + y = 12y + 11
+To get a perfect square, 12y + 11 must be a multiple of 11,
+as 11 times a perfect square will give you a perfect square.
+12y + 11 = 11K (where K is a positive integer)
+we can see that 12B is one less than a multiple of 11. The only value of B that works in this case is B = 10 - 1 = 9.
+in this case, the two-digit numbers are 98 and 89.
+let's find the square root of the sum for each case:
+in case 1: Sum of 56 and 65 is 121, which is a perfect square. The square root of 121 is 11.
+in case 2: Sum of 98 and 89 is 187, which is not a perfect square.
+the two-digit numbers that meet the conditions are 56 and 65, and the square root of their sum is 11.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
